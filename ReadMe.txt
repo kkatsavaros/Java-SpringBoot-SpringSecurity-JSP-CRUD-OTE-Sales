@@ -1,4 +1,4 @@
-Java-SpringBoot-SpringSecurity-JSP-CRUD-OTE-SaleS
+Java-SpringBoot-SpringSecurity-JSP-CRUD-OTE-Sales
 
 
 db: iyjsvkfs_otesales2
